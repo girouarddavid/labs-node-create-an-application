@@ -8,9 +8,9 @@
       "name": "Lab: Web App",
       "directory": "src/web-app",
       "env": {
-        "ISSUER_BASE_URL": "$tenant_base_url",
-        "CLIENT_ID": "$client_id",
-        "SESSION_SECRET": "a long, randomly-generated string stored in env",
+        "ISSUER_BASE_URL": "labs-auth0-davidg.us.auth0.com",
+        "CLIENT_ID": "ft66rGvZH1fSqIovW9VVMa6BCNzgN8Xp",
+        "SESSION_SECRET": "0aNFUNpzSpvY3bQUEQzRUQnLa2vSW0wPR0PBL7_IPFqdG3Ky_RFmKXR7VHCc5xRX",
         "PORT": 7000
       }
     }

@@ -3,7 +3,7 @@ const {
   API_URL,
   CLIENT_ID,
   CLIENT_SECRET,
-  SESSION_SECRET = 'a long, randomly-generated string stored in env',
+  SESSION_SECRET = '0aNFUNpzSpvY3bQUEQzRUQnLa2vSW0wPR0PBL7_IPFqdG3Ky_RFmKXR7VHCc5xRX',
   PORT = 7000,
 } = process.env;
 
